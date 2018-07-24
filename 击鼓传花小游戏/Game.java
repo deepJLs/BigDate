@@ -1,4 +1,7 @@
-package Fanxing7_23;
+package 击鼓传花小游戏;
+
+import Fanxing7_23.LinkList;
+import Fanxing7_23.Node;
 
 public class Game {
 
